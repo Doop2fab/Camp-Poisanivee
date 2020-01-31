@@ -15,7 +15,6 @@ class campMain
         System.out.println("P	List all campers names in preorder");
         System.out.println("Q	Quit\n");
     }
-
     /**
      * @param fin open scanner w/ file
      * @return number of lines in file
