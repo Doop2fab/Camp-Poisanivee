@@ -3,6 +3,7 @@ import java.io.*;
 /**
  * @author Andrew Spores
  */
+
 public class Camper implements Comparable
 {
     String command; String name; int age; String sex;
