@@ -3,8 +3,6 @@ import java.util.*;
 
 class BSTMain
 {
-	
-	
 	public static void main(String [] args) throws IOException
 	{
 		Scanner file=new Scanner(new FileReader("fishfile.txt"));
