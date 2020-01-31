@@ -12,8 +12,6 @@ public class QueueLL implements Queue
 	{
 		makeEmpty();
 	}
-	
-	
 	public void enqueue(Object x)
 	{
 		node newnode=new node();
